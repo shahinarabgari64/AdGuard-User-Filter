@@ -1,3 +1,6 @@
+! Title: AdGuard User Filter (Backup)
+! Version: 22/06/19
+
 /generate_204
 ||youtube.com/sw.js_data
 ||youtube.com/youtubei/v1/att/get?*
