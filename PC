@@ -22,3 +22,4 @@ namu.wiki#@?#div[class*="senkawa"] div > div div:contains(/./) ~ div:has(tbody >
 namu.wiki#@%#//[remove]("abort-on-stack-trace", "Promise", "a.<anonymous>") namu.wiki#@%#//[remove]("abort-on-stack-trace", "Promise", "mount") namu.wiki#@%#//[remove]("abort-on-stack-trace", "Promise.prototype.then", "a.doc")
 /Google.AdSense.js?*
 ||gstatic.com/cv/js/sender/v1/cast_sender.js$third-party
+||api.msn.com/auth/cookie^
