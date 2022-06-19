@@ -1,4 +1,4 @@
-! Title: AdGuard User Filter (Backup)
+! Title: PC AdGuard User Filter (Backup)
 ! Version: 22/06/19
 
 /generate_204
