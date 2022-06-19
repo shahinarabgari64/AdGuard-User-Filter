@@ -1,5 +1,6 @@
 ! Title: Android AdGuard DNS Filter (Backup)
 ! Version: 22/06/19
+! Homepage: bit.ly/AdGuard-User-Filter
 
 ||vs-api.voodoo-tech.io^
 ||api.onesignal.com^
