@@ -165,3 +165,11 @@
 ||app-measurement.com^
 ||digitalassetlinks.googleapis.com^
 ||gos-api.gos-gsp.io^
+/generate_204
+/Google.AdSense.js?
+/ajax/get-counts
+/youtube/img/creator/analytics/
+||casespartner-pa.youtube.com^
+||addons-pa.clients6.google.com^
+||youtube.com/sw.js_data
+||youtube.com/youtubei/v1/att/get?
