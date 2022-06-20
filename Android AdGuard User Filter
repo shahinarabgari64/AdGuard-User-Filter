@@ -1,5 +1,5 @@
-! Title: Android AdGuard User Filter (Backup)
-! Version: 22/06/19
+! Title: Android AdGuard User Filter
+! Version: 22/06/20
 ! Homepage: bit.ly/AdGuard-User-Filter
 
 ||tds.ahnlab.com^
@@ -11,7 +11,6 @@
 ||firebase*.googleapis.com^
 ||config-api.internet.apps.samsung.com^
 ||trending-prd.internet.apps.samsung.com^
-@@||t.co^$app=com.twitter.android,important
 ||appcloud.mcafee.com^
 ||business.samsungusa.com^$important
 ||inspector-collector.m.naver.com^
