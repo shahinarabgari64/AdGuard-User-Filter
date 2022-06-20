@@ -19,6 +19,7 @@ namu.wiki#@?#div[class*="senkawa"] div > div div:contains(/./) ~ div:has(tbody >
 ||contacts.google.com^$third-party
 ###container > div.item-topinfowrap:nth-child(3) > div.item-topinfo.item-topinfo--additional:last-child > div.box__plcc-banner:nth-child(4)
 namu.wiki#@%#//[remove]("abort-on-stack-trace", "Promise", "a.<anonymous>") namu.wiki#@%#//[remove]("abort-on-stack-trace", "Promise", "mount") namu.wiki#@%#//[remove]("abort-on-stack-trace", "Promise.prototype.then", "a.doc")
-/Google.AdSense.js?*
+/Google.AdSense.js?
 ||gstatic.com/cv/js/sender/v1/cast_sender.js$third-party
 ||api.msn.com/auth/cookie^
+/ajax/get-counts
