@@ -1,5 +1,5 @@
 ! Title: Android AdGuard User Rule
-! Version: 22/06/20
+! Version: 22/06/22
 ! Homepage: bit.ly/AdGuard-User-Filter
 
 ||tds.ahnlab.com^
@@ -60,5 +60,6 @@
 ||lf*-geckocdn-sg.tiktokcdn.com^$important
 ||infinitedata-pa.googleapis.com^$important
 ||gms.ahnlab.com/jk?c=25&k=1$important
-||gos-api.gos-gsp.io^$important
-||digitalassetlinks.googleapis.com^$important
+||gos-api.gos-gsp.io^
+||digitalassetlinks.googleapis.com^
+||hockeyapp.net^
