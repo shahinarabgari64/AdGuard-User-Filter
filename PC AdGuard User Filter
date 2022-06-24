@@ -1,5 +1,5 @@
 ! Title: PC AdGuard User Filter
-! Version: 22/06/22
+! Version: 22/06/24
 ! Homepage: bit.ly/AdGuard-User-Filter
 
 /generate_204
@@ -27,3 +27,5 @@ namu.wiki#@%#//[remove]("abort-on-stack-trace", "Promise", "a.<anonymous>") namu
 ||casespartner-pa.youtube.com/static/proxy.html^
 /ads/adstream_sx.ads/
 ||hockeyapp.net^
+||api.bugs.co.kr/3/charts/track/
+/myalbums?tracks_*
