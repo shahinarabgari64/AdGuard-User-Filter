@@ -1,5 +1,5 @@
 ! Title: Android AdGuard User Rule
-! Version: 22/06/23
+! Version: 22/06/24
 ! Homepage: bit.ly/AdGuard-User-Filter
 
 ||tds.ahnlab.com^
@@ -66,3 +66,4 @@
 ||cdn.mediatoday.co.kr^
 ||collector.github.com^
 ||mercury.coupang.com^
+||in.appcenter.ms^
