@@ -1,5 +1,5 @@
 ! Title: Android AdGuard DNS User Filter
-! Version: 22/06/23
+! Version: 22/06/24
 ! Homepage: bit.ly/AdGuard-User-Filter
 
 ||voodoo-tech.io^
@@ -180,3 +180,4 @@
 ||external.impression-neo.naver.com^
 ||collector.github.com^
 ||mercury.coupang.com^
+||in.appcenter.ms^
