@@ -1,5 +1,5 @@
 ! Title: Android AdGuard User Rule
-! Version: 22/06/24
+! Version: 22/06/25
 ! Homepage: bit.ly/AdGuard-User-Filter
 
 ||tds.ahnlab.com^
@@ -14,7 +14,6 @@
 ||inspector-collector.m.naver.com^
 ||geomobileservices-pa.googleapis.com^
 ||sadmin.brightcove.com^
-||vas.samsungapps.com^
 ||firebaseio.com^
 ||adservice.google.com^$important
 ||wcs.naver.net^
