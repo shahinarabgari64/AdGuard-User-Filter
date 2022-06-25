@@ -33,6 +33,4 @@ cultureland.co.kr###tk_overdiv
 boannews.com###media_right_bn_area
 boannews.com###media > iframe:nth-child(2)
 boannews.com###news_util03
-@@||myaccount.google.com^$important,document
-@@||mail.proton.me^$important,document
 ||config.edge.skype.com^
