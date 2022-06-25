@@ -2,41 +2,34 @@
 ! Version: 22/06/25
 ! Homepage: bit.ly/AdGuard-User-Filter
 
-/generate_204
-||youtube.com/sw.js_data
-||youtube.com/youtubei/v1/att/get?*
-||mud-kage.kakao.co.kr/dn^$app=KakaoTalk.exe
-||aa.google.com^
-||jnn-pa.googleapis.com^
-||edge.microsoft.com/sync^
-||youtube.com/youtubei/v1/guide?
-||static.nid.naver.com^
-||search.like.naver.com^
-###coupang-banner
-naver.com###veta_top_inner
-naver.com###veta_branding_inner
-||youtube.com/api/stats^
-namu.wiki#@?#div[class*="senkawa"] div > div div:contains(/./) ~ div:has(tbody > tr + tr > td a[href^="/w/"] ~ span:contains(/[A-z0-9- ]{2,}[., ]{1,}[A-z0-9 ]{2,}/) ~ span[class]:contains(/./)):not(:has( ~ footer a[href*="//creativecommons.org/licenses/by-nc-sa/2.0/kr"]))
-||addons-pa.clients6.google.com^
-||contacts.google.com^$third-party
-###container > div.item-topinfowrap:nth-child(3) > div.item-topinfo.item-topinfo--additional:last-child > div.box__plcc-banner:nth-child(4)
-namu.wiki#@%#//[remove]("abort-on-stack-trace", "Promise", "a.<anonymous>") namu.wiki#@%#//[remove]("abort-on-stack-trace", "Promise", "mount") namu.wiki#@%#//[remove]("abort-on-stack-trace", "Promise.prototype.then", "a.doc")
-/Google.AdSense.js?*
-||gstatic.com/cv/js/sender/v1/cast_sender.js$third-party
-/get-counts
-/youtube/img/creator/analytics/
-||casespartner-pa.youtube.com/static/proxy.html^
-/ads/adstream_sx.ads/
-cultureland.co.kr###tk_overdiv
-||api.bugs.co.kr/3/tracks/*/islike
-||api.bugs.co.kr/3/banners/
-boannews.com###media_right_bn_area
-boannews.com###media > iframe:nth-child(2)
-boannews.com###news_util03
-||config.edge.skype.com^
-||edge.microsoft.com/identity/api/v3/msa
-||apis.google.com/_/scs/abc-static/_/
-/bundles/v1/edgeChromium/latest/
-||wisecleaner.net^
+||d9.flashtalking.com^
+||img.mobon.net^
+||wcs.naver.net^
+||wcs.naver.com^
+||gms.ahnlab.com^
+||ocsp.pki.goog^
+||siape.veta.naver.com^
+||google-analytics.com^
+||windows.msn.com^
+||settings-win.data.microsoft.com^
+||dns.msftncsi.com^
+||msftconnecttest.com^
+||activity.windows.com^
+||wns.windows.com^
+||ahnlab.tagtree.co.kr^
+||www.msftncsi.com^
+||www.ahnlabad.com^
+||v3contents.ahnlab.com^
+||ispt.ahnlab.com^
+||fp-afd.azurefd.us^
+||ss2.us^
+||events.data.
+||staticview.msn.com^
+||kbstar.com^
+||wooribank.com^
 ||info.wisecleaner.com^
-||msn.com^
+||wisecleaner.net^
+||ecn.dev.virtualearth.net^
+||assets.msn.com^
+||lencr.org^
+||zing.vn^
