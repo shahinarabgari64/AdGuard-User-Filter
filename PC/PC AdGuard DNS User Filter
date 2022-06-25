@@ -10,7 +10,6 @@
 ||ocsp.pki.goog^
 ||siape.veta.naver.com^
 ||google-analytics.com^
-||windows.msn.com^
 ||settings-win.data.microsoft.com^
 ||dns.msftncsi.com^
 ||msftconnecttest.com^
@@ -30,6 +29,6 @@
 ||info.wisecleaner.com^
 ||wisecleaner.net^
 ||ecn.dev.virtualearth.net^
-||assets.msn.com^
 ||lencr.org^
 ||zing.vn^
+||msn.com^
