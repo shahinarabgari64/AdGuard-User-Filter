@@ -36,9 +36,7 @@ boannews.com###news_util03
 ||config.edge.skype.com^
 ||edge.microsoft.com/identity/api/v3/msa
 ||apis.google.com/_/scs/abc-static/_/
-||api.msn.com/auth/cookie^
 /bundles/v1/edgeChromium/latest/
-||arc.msn.com/v4/api/selection?
 ||wisecleaner.net^
 ||info.wisecleaner.com^
-||assets.msn.com^
+||msn.com^
