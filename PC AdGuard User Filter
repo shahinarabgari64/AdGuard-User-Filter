@@ -4,7 +4,7 @@
 
 /generate_204
 ||youtube.com/sw.js_data
-||youtube.com/youtubei/v1/att/get?
+||youtube.com/youtubei/v1/att/get?*
 ||mud-kage.kakao.co.kr/dn^$app=KakaoTalk.exe
 ||aa.google.com^
 ||jnn-pa.googleapis.com^
@@ -13,23 +13,26 @@
 ||static.nid.naver.com^
 ||search.like.naver.com^
 ###coupang-banner
+naver.com###veta_top_inner
+naver.com###veta_branding_inner
 ||youtube.com/api/stats^
 namu.wiki#@?#div[class*="senkawa"] div > div div:contains(/./) ~ div:has(tbody > tr + tr > td a[href^="/w/"] ~ span:contains(/[A-z0-9- ]{2,}[., ]{1,}[A-z0-9 ]{2,}/) ~ span[class]:contains(/./)):not(:has( ~ footer a[href*="//creativecommons.org/licenses/by-nc-sa/2.0/kr"]))
 ||addons-pa.clients6.google.com^
 ||contacts.google.com^$third-party
 ###container > div.item-topinfowrap:nth-child(3) > div.item-topinfo.item-topinfo--additional:last-child > div.box__plcc-banner:nth-child(4)
 namu.wiki#@%#//[remove]("abort-on-stack-trace", "Promise", "a.<anonymous>") namu.wiki#@%#//[remove]("abort-on-stack-trace", "Promise", "mount") namu.wiki#@%#//[remove]("abort-on-stack-trace", "Promise.prototype.then", "a.doc")
-/Google.AdSense.js?
+/Google.AdSense.js?*
 ||gstatic.com/cv/js/sender/v1/cast_sender.js$third-party
-||api.msn.com/auth/cookie^
-/ajax/get-counts
-/img/creator/analytics/
+/get-counts
+/youtube/img/creator/analytics/
 ||casespartner-pa.youtube.com/static/proxy.html^
 /ads/adstream_sx.ads/
-||hockeyapp.net^
-/3/tracks/*/islike
+cultureland.co.kr###tk_overdiv
+||api.bugs.co.kr/3/tracks/*/islike
 ||api.bugs.co.kr/3/banners/
 boannews.com###media_right_bn_area
 boannews.com###media > iframe:nth-child(2)
 boannews.com###news_util03
+@@||myaccount.google.com^$important,document
+@@||mail.proton.me^$important,document
 ||config.edge.skype.com^
