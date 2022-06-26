@@ -1,5 +1,5 @@
 ! Title: Android AdGuard User Rule
-! Version: 22/06/25
+! Version: 22/06/26
 ! Homepage: bit.ly/AdGuard-User-Filter
 
 ||tds.ahnlab.com^
@@ -70,4 +70,4 @@
 ||ljc.coupang.com^
 ||edge-mqtt.facebook.com^
 ||serv.ds.kakao.com
-||hades-proxy.v.kakao.com
+||hades-proxy.v.kakao.com^
