@@ -1,5 +1,5 @@
 ! Title: PC AdGuard User Filter
-! Version: 22/06/25
+! Version: 22/06/30
 ! Homepage: bit.ly/AdGuard-User-Filter
 
 /generate_204
@@ -42,3 +42,4 @@ boannews.com###news_util03
 ||msn.com^
 ||mds-tracker-api.onkakao.net^
 ||mds-log.onkakao.net^
+||events.gfe.nvidia.com^
