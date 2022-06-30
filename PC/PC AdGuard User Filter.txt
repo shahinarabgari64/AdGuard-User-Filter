@@ -44,3 +44,4 @@ boannews.com###news_util03
 ||mds-log.onkakao.net^
 ||events.gfe.nvidia.com^
 ||bingapis.com^
+||reports.protonmail.ch^
