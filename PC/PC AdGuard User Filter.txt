@@ -43,3 +43,4 @@ boannews.com###news_util03
 ||mds-tracker-api.onkakao.net^
 ||mds-log.onkakao.net^
 ||events.gfe.nvidia.com^
+||bingapis.com^
