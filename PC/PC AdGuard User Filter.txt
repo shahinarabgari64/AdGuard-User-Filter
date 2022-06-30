@@ -64,3 +64,4 @@ boannews.com###news_util03
 ||twitter.com/i/api/1.1/jot/ces/p2
 ||abs-0.twimg.com/emoji/v2/svg/
 ||abs.twimg.com/responsive-web/client-web/ondemand.CarouselScroller.
+||youtube.com/manifest.webmanifest
