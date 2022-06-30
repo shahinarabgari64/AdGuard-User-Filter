@@ -1,5 +1,5 @@
 ! Title: PC AdGuard DNS User Filter
-! Version: 22/06/29
+! Version: 22/06/30
 ! Homepage: bit.ly/AdGuard-User-Filter
 
 ||d9.flashtalking.com^
@@ -41,3 +41,4 @@
 ||mds-log.onkakao.net^
 ||ad.daum.net^
 ||protonstatus.com^
+||in-addr.arpa^
