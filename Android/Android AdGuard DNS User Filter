@@ -1,5 +1,5 @@
 ! Title: Android AdGuard DNS User Filter
-! Version: 22/06/29
+! Version: 22/07/01
 ! Homepage: bit.ly/AdGuard-User-Filter
 
 ||voodoo-tech.io^
@@ -191,3 +191,4 @@
 ||cdn.fbsbx.com^
 ||zing.vn^
 ||app.adjust.com^$important
+||log.melon.com^
