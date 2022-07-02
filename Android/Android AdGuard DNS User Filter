@@ -1,9 +1,9 @@
 ! Title: Android AdGuard DNS User Filter
 ! Version: 22/07/02
 
-*analytics.
 ||startup.mobile.yandex.net^
 ||instagram.ficn*-*.fna.fbcdn.net^
+/analytics/
 ||external.ficn*-*.fna.fbcdn.net^
 ||lookaside.facebook.com^
 ||us-east-1.amazonaws.com^
@@ -89,7 +89,6 @@
 ||mon-*.tiktokv.com^
 ||nvapi.feeldmc.com^
 ||byteoversea.com^
-||tnc16-useast1a.byteoversea.com^
 ||pitaya-sg.tiktokv.com^
 ||b-www.facebook.com^
 ||us-central1-sophos-mobile-control-eb139.cloudfunctions.net^
@@ -103,10 +102,8 @@
 ||notify.bugsnag.com^
 ||sessions.bugsnag.com^
 ||app.getsentry.com^
-||advice-ads.s3.amazonaws.com^
 ||amazonaax.com^
 ||advertising-api-eu.amazon.com^
-||hotjar-analytics.com^
 ||browser.sentry-cdn.com^
 ||api.bugsnag.com^
 ||affiliationjs.s3.amazonaws.com^
@@ -117,7 +114,6 @@
 ||ads-api.twitter.com^
 ||ads.
 ||advertising.twitter.com^
-||analytics*
 ||b-graph.facebook.com^
 ||hotapi-sg.tiktokv.com^
 ||portal.fb.com^
@@ -177,7 +173,6 @@
 /generate_204
 /Google.AdSense.js?
 /ajax/get-counts
-/analytics/
 ||casespartner-pa.youtube.com^
 ||addons-pa.clients6.google.com^
 ||youtube.com/sw.js_data
