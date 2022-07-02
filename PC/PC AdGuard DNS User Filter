@@ -1,5 +1,5 @@
 ! Title: PC AdGuard DNS User Filter
-! Version: 22/06/30
+! Version: 22/07/02
 ! Homepage: bit.ly/AdGuard-User-Filter
 
 ||d9.flashtalking.com^
@@ -36,7 +36,6 @@
 ||fd.api.iris.microsoft.com^
 ||insideruser.microsoft.com^
 ||ogs.google.co.kr^
-||l-ring.msedge.net^
 ||evoke-windowsservices-tas.msedge.net^
 ||mds-log.onkakao.net^
 ||ad.daum.net^
@@ -55,6 +54,12 @@
 ||inputsuggestions.msdxcdn.microsoft.com^
 ||v3clinic.ahnlab.com^'
 ||inputsuggestions.msdxcdn.microsoft-ppe.com^
-||ahnlab.tagtree.co.kr^
 ||sentry.adguard.com^
 ||instagram.fsrg*-*.fna.fbcdn.net^
+||arc.msn.com^
+||roaming.officeapps.live.com^
+||omex.cdn.office.net^
+||cdn.odc.officeapps.live.com^
+||events.gfe.nvidia.com^
+||gfwsl.geforce.com^
+||use.fortawesome.com^
