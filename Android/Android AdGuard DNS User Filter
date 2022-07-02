@@ -2,6 +2,7 @@
 ! Version: 22/07/02
 
 ||startup.mobile.yandex.net^
+/tracker/
 ||instagram.ficn*-*.fna.fbcdn.net^
 /analytics/
 ||external.ficn*-*.fna.fbcdn.net^
@@ -187,6 +188,5 @@
 ||tvetamovie.pstatic.net^
 ||ljc.coupang.com^
 ||kyson.kakao.com^
-/tracker/
 ||serv.ds.kakao.com^
 ||hades-proxy.v.kakao.com^
