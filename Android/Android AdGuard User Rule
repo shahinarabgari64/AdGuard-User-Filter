@@ -2,6 +2,17 @@
 ! Version: 22/07/02
 ! Homepage: bit.ly/AdGuard-User-Filter
 
+||external.ficn*-*.fna.fbcdn.net^
+||lookaside.facebook.com^
+||b-api.facebook.com^
+||b-graph.facebook.com^
+||log.melon.com^
+||activity.windows.com^
+||zing.vn^
+||cdn.fbsbx.com^
+||aem-ingest.onkakao.net^
+||api-logncrash.cloud.toast.com^
+||collector.github.com^
 ||tds.ahnlab.com^
 ||onanico.net^
 ||img.youtube.com^$app=com.mathpresso.qanda
@@ -68,17 +79,5 @@
 ||in.appcenter.ms^
 ||tvetamovie.pstatic.net^
 ||ljc.coupang.com^
-||edge-mqtt.facebook.com^
 ||serv.ds.kakao.com^
 ||hades-proxy.v.kakao.com^
-||collector.github.com^
-||api-logncrash.cloud.toast.com^
-||aem-ingest.onkakao.net^
-||cdn.fbsbx.com^
-||zing.vn^
-||activity.windows.com^
-||log.melon.com^
-||external.ficn*-*.fna.fbcdn.net^
-||lookaside.facebook.com^
-||b-api.facebook.com^
-||b-graph.facebook.com^
