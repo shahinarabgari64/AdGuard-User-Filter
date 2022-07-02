@@ -1,6 +1,5 @@
 ! Title: Android AdGuard User Rule
 ! Version: 22/07/02
-! Homepage: bit.ly/AdGuard-User-Filter
 
 ||external.ficn*-*.fna.fbcdn.net^
 ||lookaside.facebook.com^
