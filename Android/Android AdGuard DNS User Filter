@@ -1,6 +1,7 @@
 ! Title: Android AdGuard DNS User Filter
 ! Version: 22/07/02
 
+||eu-central-*.compute.amazonaws.com^
 ||startup.mobile.yandex.net^
 /tracker/
 ||instagram.ficn*-*.fna.fbcdn.net^
