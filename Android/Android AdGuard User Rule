@@ -1,5 +1,5 @@
 ! Title: Android AdGuard User Rule
-! Version: 22/07/01
+! Version: 22/07/02
 ! Homepage: bit.ly/AdGuard-User-Filter
 
 ||tds.ahnlab.com^
@@ -78,3 +78,7 @@
 ||zing.vn^
 ||activity.windows.com^
 ||log.melon.com^
+||external.ficn*-*.fna.fbcdn.net^
+||lookaside.facebook.com^
+||b-api.facebook.com^
+||b-graph.facebook.com^
