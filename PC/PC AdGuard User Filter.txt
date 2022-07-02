@@ -36,15 +36,14 @@ boannews.com###news_util03
 ||config.edge.skype.com^
 ||edge.microsoft.com/identity/api/v3/msa
 ||apis.google.com/_/scs/abc-static/_/
-/bundles/v1/edgeChromium/latest/
 ||wisecleaner.net^
 ||info.wisecleaner.com^
-||msn.com^
 ||mds-tracker-api.onkakao.net^
 ||mds-log.onkakao.net^
 ||events.gfe.nvidia.com^
 ||bingapis.com^
 ||reports.protonmail.ch^
+/data/manifest.json
 /ajax/bulk-route-definitions/
 ||instagram.com/api/graphql/
 ||instagram.com/qp/batch_fetch_web/
@@ -64,6 +63,7 @@ boannews.com###news_util03
 ||abs-0.twimg.com/emoji/v2/svg/
 ||abs.twimg.com/responsive-web/client-web/ondemand.CarouselScroller.
 ||youtube.com/manifest.webmanifest
+m.place.naver.com###modal-root > div
 ||link.coupang.com^$removeparam=lptag 
 ||link.coupang.com^$removeparam=subid 
 ||link.coupang.com^$removeparam=itemId 
@@ -71,6 +71,6 @@ boannews.com###news_util03
 ||link.coupang.com^$removeparam=traceid
 ##a[href*="coupa.ng/"] 
 ##a[href*="link.coupang.com/a/"]
-google.*#?#div[role="main"] div#search div[data-async-context] div[data-hveid]:-abp-contains(/eggrank\.com|reviewpro\.co\.kr|proguide\.co\.kr|googlewph\.com|whoareyoubro\.com|whitepen\.co\.kr|contentsfree\.com|applechart\.kr|eegosa\.com|goouk\.com|top99\.co\.kr|toptrend\.blog|kangsoong\.kr|canfactory\.tistory\.com|review-news\.co\.kr|whitemind\.kr|fifa3nexonblog\.tistory\.com|topguide\.kr|reviewmeca\.com|choocheon\.com|sonpang\.com|ppparenting\.com|reviewdamda\.com|hotdealshop\.co\.kr|picktip\.co\.kr|godsungb\.kr|알뜰정보\.com|reviewguru\.co\.kr|bamtrae\.co\.kr|kkatal\.com|gyeomipang\.co\.kr|sshopflix\.com|kormoney\.com|nolre\.com|onetopreview\.net|recommendproduct\.net|lifenhome\.net|rvpst\.com|alivingtime\.com|popcornchart\.com|pink29ana\.com|battleprice\.net|4seosonnews\.com|itrvrl\.com|reviewguide\.co\.kr|ranking-review\.tistory\.com/)
+google.*#?#div[role="main"] div#search div[data-async-context] div[data-hveid]:-abp-contains(/eggrank\.com|reviewpro\.co\.kr|proguide\.co\.kr|googlewph\.com|whoareyoubro\.com|whitepen\.co\.kr|contentsfree\.com|applechart\.kr|eegosa\.com|goouk\.com|top99\.co\.kr|toptrend\.blog|kangsoong\.kr|canfactory\.tistory\.com|review-news\.co\.kr|whitemind\.kr|fifa3nexonblog\.tistory\.com|topguide\.kr|reviewmeca\.com|choocheon\.com|sonpang\.com|ppparenting\.com|reviewdamda\.com|hotdealshop\.co\.kr|picktip\.co\.kr|godsungb\.kr|알뜰정보\.com|reviewguru\.co\.kr|bamtrae\.co\.kr|kkatal\.com|gyeomipang\.co\.kr|sshopflix\.com|kormoney\.com|nolre\.com|onetopreview\.net|recommendproduct\.net|lifenhome\.net|rvpst\.com|alivingtime\.com|popcornchart\.com|pink29ana\.com|battleprice\.net|4seosonnews\.com|itrvrl\.com|reviewguide\.co\.kr|ranking-review\.tistory\.com/)
 duckduckgo.com#?#div.result:-abp-contains(/eggrank\.com|reviewpro\.co\.kr|proguide\.co\.kr|googlewph\.com|whoareyoubro\.com|whitepen\.co\.kr|contentsfree\.com|applechart\.kr|eegosa\.com|goouk\.com|top99\.co\.kr|toptrend\.blog|kangsoong\.kr|canfactory\.tistory\.com|review-news\.co\.kr|whitemind\.kr|fifa3nexonblog\.tistory\.com|topguide\.kr|reviewmeca\.com|choocheon\.com|sonpang\.com|ppparenting\.com|reviewdamda\.com|hotdealshop\.co\.kr|picktip\.co\.kr|godsungb\.kr|알뜰정보\.com|reviewguru\.co\.kr|bamtrae\.co\.kr|kkatal\.com|gyeomipang\.co\.kr|sshopflix\.com|kormoney\.com|nolre\.com|onetopreview\.net|recommendproduct\.net|lifenhome\.net|rvpst\.com|alivingtime\.com|popcornchart\.com|pink29ana\.com|battleprice\.net|4seosonnews\.com|itrvrl\.com|reviewguide\.co\.kr|ranking-review\.tistory\.com/)
 ||ls.dtrace.nvidia.com/api/v0/reports
