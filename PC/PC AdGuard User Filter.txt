@@ -43,7 +43,6 @@ boannews.com###news_util03
 ||events.gfe.nvidia.com^
 ||bingapis.com^
 ||reports.protonmail.ch^
-/data/manifest.json
 /ajax/bulk-route-definitions/
 ||instagram.com/api/graphql/
 ||instagram.com/qp/batch_fetch_web/
