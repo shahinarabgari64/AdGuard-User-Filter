@@ -104,7 +104,6 @@
 ||sessions.bugsnag.com^
 ||app.getsentry.com^
 ||advice-ads.s3.amazonaws.com^
-||*-analytics.
 ||amazonaax.com^
 ||advertising-api-eu.amazon.com^
 ||hotjar-analytics.com^
@@ -119,7 +118,6 @@
 ||ads.
 ||advertising.twitter.com^
 ||analytics*
-||analytics.
 ||b-graph.facebook.com^
 ||hotapi-sg.tiktokv.com^
 ||portal.fb.com^
