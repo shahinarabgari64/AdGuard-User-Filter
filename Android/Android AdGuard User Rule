@@ -1,6 +1,7 @@
 ! Title: Android AdGuard User Rule
 ! Version: 22/07/02
 
+||zaloapp.com^
 ||external.ficn*-*.fna.fbcdn.net^
 ||lookaside.facebook.com^
 ||b-api.facebook.com^
