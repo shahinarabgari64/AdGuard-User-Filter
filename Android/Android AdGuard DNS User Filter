@@ -1,6 +1,8 @@
 ! Title: Android AdGuard DNS User Filter
 ! Version: 22/07/02
 
+*analytics.
+||startup.mobile.yandex.net^
 ||instagram.ficn*-*.fna.fbcdn.net^
 ||external.ficn*-*.fna.fbcdn.net^
 ||lookaside.facebook.com^
