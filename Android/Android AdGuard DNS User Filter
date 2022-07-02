@@ -1,7 +1,19 @@
 ! Title: Android AdGuard DNS User Filter
 ! Version: 22/07/02
-! Homepage: bit.ly/AdGuard-User-Filter
 
+||external.ficn*-*.fna.fbcdn.net^
+||lookaside.facebook.com^
+||us-east-1.amazonaws.com^
+||receiver.habby.mobi^
+||graph.instagram.com^
+||s.011st.com^
+||ds.11st.co.kr^
+||log.melon.com^
+||app.adjust.com^$important
+||zing.vn^
+||cdn.fbsbx.com^
+||api-logncrash.cloud.toast.com^
+||collector.github.com^
 ||voodoo-tech.io^
 ||static-feedback.pstatic.net^
 ||api.onesignal.com^
@@ -22,7 +34,6 @@
 ||stephenpontes.com^
 ||dci.sophosupd.com^
 ||rdi.kt.com^
-||offer.onmas.kt.com^
 ||launchdarkly.com^
 ||ahnlab.nefficient.co.kr^
 ||metrics.apple.com^
@@ -46,7 +57,6 @@
 ||ssio04.nchat.naver.com^
 ||adservice.google.co.kr^
 ||edge.activity.windows.com^
-||edge-mqtt.facebook.com^
 ||me.gvt1.com^
 ||www.googletagmanager.com^
 ||appcloud.mcafee.com^
@@ -176,7 +186,6 @@
 ||3dpop.kr^
 ||syndication.twitter.com^
 ||external.impression-neo.naver.com^
-||collector.github.com^
 ||mercury.coupang.com^
 ||in.appcenter.ms^
 ||tvetamovie.pstatic.net^
@@ -185,17 +194,3 @@
 ||*tracker.
 ||serv.ds.kakao.com^
 ||hades-proxy.v.kakao.com^
-||collector.github.com^
-||api-logncrash.cloud.toast.com^
-||cdn.fbsbx.com^
-||zing.vn^
-||app.adjust.com^$important
-||log.melon.com^
-||s.011st.com^
-||ds.11st.co.kr^
-||graph.instagram.com^
-||us-east-1.amazonaws.com^
-||receiver.habby.mobi^
-||external.ficn*-*.fna.fbcdn.net^
-||lookaside.facebook.com^
-||us-east-1.amazonaws.com^
