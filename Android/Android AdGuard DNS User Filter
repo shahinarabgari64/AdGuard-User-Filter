@@ -1,5 +1,5 @@
 ! Title: Android AdGuard DNS User Filter
-! Version: 22/07/02
+! Version: 22/07/03
 
 ||zaloapp.com^
 ||eu-central-*.compute.amazonaws.com^
@@ -167,7 +167,6 @@
 ||smart-message-log.clova.ai^
 ||infinitedata-pa.googleapis.com^
 ||mshop.ahnlab.com^
-||gms.ahnlab.com^
 ||gateway.bingviz.microsoftapp.net^
 ||android-context-data.googleapis.com^
 ||app-measurement.com^
