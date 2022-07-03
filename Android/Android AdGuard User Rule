@@ -1,5 +1,5 @@
 ! Title: Android AdGuard User Rule
-! Version: 22/07/02
+! Version: 22/07/03
 
 ||zaloapp.com^
 ||external.ficn*-*.fna.fbcdn.net^
@@ -41,8 +41,7 @@
 ||graph.facebook.com^$app=com.spotify.music
 ||*/api/minecraft/language_category_select.php$important
 ||advertising-api-eu.amazon.com^$important
-||analytics*
-||analytics.
+/analytics/
 ||jnn-pa.googleapis.com^$important
 ||img.youtube.com^$app=com.sec.android.app.samsungapps,important
 ||sapphire.bingviz.com^$important
@@ -67,7 +66,6 @@
 ||sf*-sg.tiktokcdn.com^$important
 ||lf*-geckocdn-sg.tiktokcdn.com^$important
 ||infinitedata-pa.googleapis.com^$important
-||gms.ahnlab.com/jk?c=25&k=1$important
 ||gos-api.gos-gsp.io^
 ||digitalassetlinks.googleapis.com^
 ||hockeyapp.net^
