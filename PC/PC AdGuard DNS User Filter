@@ -1,5 +1,5 @@
 ! Title: PC AdGuard DNS User Filter
-! Version: 22/07/02
+! Version: 22/07/03
 ! Homepage: bit.ly/AdGuard-User-Filter
 
 ||d9.flashtalking.com^
@@ -63,3 +63,4 @@
 ||events.gfe.nvidia.com^
 ||gfwsl.geforce.com^
 ||use.fortawesome.com^
+||dtrace.nvidia.com^
