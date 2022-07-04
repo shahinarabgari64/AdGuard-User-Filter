@@ -1,13 +1,11 @@
 ! Title: Android AdGuard User Rule
 ! Version: 22/07/03
 
-||instagram.ficn*-*.fna.fbcdn.net^
 ||zaloapp.com^
 ||external.ficn*-*.fna.fbcdn.net^
 ||b-api.facebook.com^
 ||b-graph.facebook.com^
 ||log.melon.com^
-||activity.windows.com^
 ||zing.vn^
 ||cdn.fbsbx.com^
 ||aem-ingest.onkakao.net^
