@@ -1,6 +1,8 @@
 ! Title: Android AdGuard DNS User Filter
 ! Version: 22/07/03
 
+||pingback.giphy.com^
+@@||us-auth2.samsungosp.com^
 ||zaloapp.com^
 ||eu-central-*.compute.amazonaws.com^
 ||startup.mobile.yandex.net^
