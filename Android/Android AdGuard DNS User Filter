@@ -1,5 +1,5 @@
 ! Title: Android AdGuard DNS User Filter
-! Version: 22/07/03
+! Version: 22/07/04
 
 ||pingback.giphy.com^
 @@||us-auth2.samsungosp.com^
@@ -7,7 +7,6 @@
 ||eu-central-*.compute.amazonaws.com^
 ||startup.mobile.yandex.net^
 /tracker/
-||instagram.ficn*-*.fna.fbcdn.net^
 /analytics/
 ||external.ficn*-*.fna.fbcdn.net^
 ||us-east-1.amazonaws.com^
@@ -79,7 +78,6 @@
 ||jnn-pa.googleapis.com^
 ||firebaseio.com^
 ||crashlyticsreports-pa.googleapis.com^
-||graph.facebook.com^
 ||alt*-mtalk.google.com^
 ||adservice.google.com^
 ||crashlytics.com^
