@@ -4,7 +4,7 @@
 
 /generate_204
 ||youtube.com/sw.js_data
-||youtube.com/youtubei/v1/att/get?*
+/v1/att/get?
 ||mud-kage.kakao.co.kr/dn^$app=KakaoTalk.exe
 ||aa.google.com^
 ||jnn-pa.googleapis.com^
