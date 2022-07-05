@@ -1,5 +1,5 @@
 ! Title: PC AdGuard User Filter
-! Version: 22/07/02
+! Version: 22/07/05
 ! Homepage: bit.ly/AdGuard-User-Filter
 
 /generate_204
@@ -33,7 +33,6 @@ cultureland.co.kr###tk_overdiv
 boannews.com###media_right_bn_area
 boannews.com###media > iframe:nth-child(2)
 boannews.com###news_util03
-||config.edge.skype.com^
 ||edge.microsoft.com/identity/api/v3/msa
 ||apis.google.com/_/scs/abc-static/_/
 ||wisecleaner.net^
