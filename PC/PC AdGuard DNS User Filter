@@ -66,3 +66,6 @@
 ||canvas-cdn-prod.azureedge.net^
 ||fp.msedge.net^
 ||sentry.io^
+||ecs.office.com^
+||metadata.templates.cdn.office.net^
+||*-ring-fallback.msedge.net^
