@@ -8,9 +8,9 @@
 ||wcs.naver.com^
 ||ocsp.pki.goog^
 ||siape.veta.naver.com^
-||google-analytics.com^
+/analytics/
 ||windows.msn.com^
-||settings-win.data.microsoft.com^
+||*-win.data.microsoft.com^
 ||dns.msftncsi.com^
 ||msftconnecttest.com^
 ||activity.windows.com^
