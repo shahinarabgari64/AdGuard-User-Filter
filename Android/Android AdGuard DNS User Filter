@@ -1,5 +1,5 @@
 ! Title: Android AdGuard DNS User Filter
-! Version: 22/07/04
+! Version: 22/07/05
 
 ||pingback.giphy.com^
 @@||us-auth2.samsungosp.com^
@@ -61,7 +61,6 @@
 ||msn.com^
 ||ssio04.nchat.naver.com^
 ||adservice.google.co.kr^
-||edge.activity.windows.com^
 ||me.gvt1.com^
 ||www.googletagmanager.com^
 ||appcloud.mcafee.com^
