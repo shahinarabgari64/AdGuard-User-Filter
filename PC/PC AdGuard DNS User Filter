@@ -1,5 +1,5 @@
 ! Title: PC AdGuard DNS User Filter
-! Version: 22/07/03
+! Version: 22/07/05
 ! Homepage: bit.ly/AdGuard-User-Filter
 
 ||d9.flashtalking.com^
@@ -51,7 +51,6 @@
 ||clo.footprintdns.com^
 ||nsrs.nprotect.net^
 ||inputsuggestions.msdxcdn.microsoft.com^
-||v3clinic.ahnlab.com^'
 ||inputsuggestions.msdxcdn.microsoft-ppe.com^
 ||sentry.adguard.com^
 ||instagram.fsrg*-*.fna.fbcdn.net^
