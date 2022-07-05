@@ -1,0 +1,11 @@
+utm_keyword
+n_media
+n_query
+n_campaign_type
+n_ad_group
+n_ad
+n_keyword
+n_keyword_id
+n_rank
+
+
