@@ -7,5 +7,3 @@ n_ad
 n_keyword
 n_keyword_id
 n_rank
-
-
