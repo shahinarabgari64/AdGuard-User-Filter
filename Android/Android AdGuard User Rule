@@ -1,6 +1,8 @@
 ! Title: Android AdGuard User Rule
-! Version: 22/07/04
+! Version: 22/07/06
 
+||js.sentry-cdn.com^
+||setting-logncrash.cloud.toast.com^
 ||zaloapp.com^
 ||external.ficn*-*.fna.fbcdn.net^
 ||b-api.facebook.com^
