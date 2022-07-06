@@ -1,6 +1,8 @@
 ! Title: Android AdGuard DNS User Filter
-! Version: 22/07/05
+! Version: 22/07/06
 
+||js.sentry-cdn.com^
+||setting-logncrash.cloud.toast.com^
 ||pingback.giphy.com^
 @@||us-auth2.samsungosp.com^
 ||zaloapp.com^
