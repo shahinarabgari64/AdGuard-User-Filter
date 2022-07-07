@@ -83,4 +83,4 @@ duckduckgo.com#?#div.result:-abp-contains(/eggrank\.com|reviewpro\.co\.kr|progui
 ||lcs-robs.adobe.io^
 /api/user/-/currentUser
 /api/v1/discovery
-||127.0.0.1:52634/api/discovery
+||127.0.0.1:*/api/discovery
