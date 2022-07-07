@@ -77,3 +77,5 @@ duckduckgo.com#?#div.result:-abp-contains(/eggrank\.com|reviewpro\.co\.kr|progui
 ||protonstatus.com/vpn_status
 ||bandisoft.com/honeycam/
 ||daumcdn.net/kas/static/ba.min.js
+||nsrs.nprotect.net^
+||bwtd.nprotect2.net^
