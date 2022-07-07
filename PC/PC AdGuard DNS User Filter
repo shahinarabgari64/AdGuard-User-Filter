@@ -8,7 +8,7 @@
 ||wcs.naver.com^
 ||ocsp.pki.goog^
 ||siape.veta.naver.com^
-/analytics/
+||google-analytics.com^
 ||windows.msn.com^
 ||*-win.data.microsoft.com^
 ||dns.msftncsi.com^
@@ -75,5 +75,10 @@
 ||ana.bandi.so^
 ||log.bandi.so^
 ||ota.nvidia.com^
-||nsrs.nprotect.net^
 ||bwtd.nprotect2.net^
+||lcs-cops.adobe.io^
+||metadata.google.internal^
+||cc-api-data.adobe.io^
+||lcs-robs.adobe.io^
+||branch.io^
+||utut-service.adobe.com^
