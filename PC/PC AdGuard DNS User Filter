@@ -70,3 +70,7 @@
 ||metadata.templates.cdn.office.net^
 ||*-ring-fallback.msedge.net^
 ||googlesyndication.com^
+||eu-central-*.compute.amazonaws.com^
+||taboola.com^
+||ana.bandi.so^
+||log.bandi.so^
