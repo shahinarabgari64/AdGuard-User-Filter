@@ -84,3 +84,5 @@ duckduckgo.com#?#div.result:-abp-contains(/eggrank\.com|reviewpro\.co\.kr|progui
 /api/user/-/currentUser
 /api/v1/discovery
 ||127.0.0.1:*/api/discovery
+/pcplayer/streaming_logging.json
+/pcplayer/streaming_analysis.json
