@@ -72,3 +72,8 @@ duckduckgo.com#?#div.result:-abp-contains(/eggrank\.com|reviewpro\.co\.kr|progui
 ||sentry.io^
 /bandizip/ad^$important
 /adsense/
+||notice.bandisoft.com^
+||eu-central-*.compute.amazonaws.com^
+||protonstatus.com/vpn_status
+||bandisoft.com/honeycam/
+||daumcdn.net/kas/static/ba.min.js
