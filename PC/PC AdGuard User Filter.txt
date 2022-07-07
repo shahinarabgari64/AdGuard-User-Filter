@@ -79,3 +79,8 @@ duckduckgo.com#?#div.result:-abp-contains(/eggrank\.com|reviewpro\.co\.kr|progui
 ||daumcdn.net/kas/static/ba.min.js
 ||nsrs.nprotect.net^
 ||bwtd.nprotect2.net^
+||lcs-cops.adobe.io^
+||lcs-robs.adobe.io^
+/api/user/-/currentUser
+/api/v1/discovery
+||127.0.0.1:52634/api/discovery
