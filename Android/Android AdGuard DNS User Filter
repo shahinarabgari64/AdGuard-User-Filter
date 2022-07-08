@@ -1,5 +1,5 @@
 ! Title: Android AdGuard DNS User Filter
-! Version: 22/07/06
+! Version: 22/07/08
 
 ||js.sentry-cdn.com^
 ||setting-logncrash.cloud.toast.com^
@@ -29,7 +29,6 @@
 ||adx-exchange.toast.com^
 ||metrics.roblox.com^
 ||onanico.net^
-||bzm-capi.kakao.com^
 ||warning.or.kr^
 ||static.naver.net^
 ||assets.adobedtm.com^
