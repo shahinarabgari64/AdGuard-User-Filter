@@ -1,6 +1,9 @@
 ! Title: Android AdGuard DNS User Filter
 ! Version: 22/07/08
 
+||ibytedtos.com^
+||sgsnssdk.com^
+||ipinfo.io^
 ||js.sentry-cdn.com^
 ||setting-logncrash.cloud.toast.com^
 ||pingback.giphy.com^
