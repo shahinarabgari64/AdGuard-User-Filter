@@ -1,6 +1,8 @@
 ! Title: Android AdGuard DNS User Filter
 ! Version: 22/07/08
 
+||arca.live^
+||meta.wikimedia.org^
 ||ibytedtos.com^
 ||sgsnssdk.com^
 ||ipinfo.io^
