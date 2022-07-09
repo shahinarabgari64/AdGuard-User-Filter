@@ -14,7 +14,6 @@
 ||cdn.nshc.net^
 ||events.data.microsoft.com^
 ||pingback.giphy.com^
-@@||us-auth2.samsungosp.com^
 /v1/att/get?
 ||zaloapp.com^
 ||eu-central-*.compute.amazonaws.com^
@@ -22,7 +21,6 @@
 /tracker/
 /analytics/
 ||external.ficn*-*.fna.fbcdn.net^
-||us-east-*.amazonaws.com^
 ||receiver.habby.mobi^
 ||s.011st.com^
 ||ds.11st.co.kr^
