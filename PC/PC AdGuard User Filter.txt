@@ -85,3 +85,4 @@ duckduckgo.com#?#div.result:-abp-contains(/eggrank\.com|reviewpro\.co\.kr|progui
 ||127.0.0.1:*/api/discovery
 /streaming_logging
 /streaming_analysis
+||typekit.net^
