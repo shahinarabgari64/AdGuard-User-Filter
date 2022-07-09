@@ -1,6 +1,9 @@
 ! Title: Android AdGuard DNS User Filter
-! Version: 22/07/08
+! Version: 22/07/09
 
+||lookaside.facebook.com^
+||instagram.ficn4-1.fna.fbcdn.net^
+||aem-ingest.onkakao.net^
 ||arca.live^
 ||meta.wikimedia.org^
 ||ibytedtos.com^
@@ -8,15 +11,18 @@
 ||ipinfo.io^
 ||js.sentry-cdn.com^
 ||setting-logncrash.cloud.toast.com^
+||cdn.nshc.net^
+||events.data.microsoft.com^
 ||pingback.giphy.com^
 @@||us-auth2.samsungosp.com^
+/v1/att/get?
 ||zaloapp.com^
 ||eu-central-*.compute.amazonaws.com^
 ||startup.mobile.yandex.net^
 /tracker/
 /analytics/
 ||external.ficn*-*.fna.fbcdn.net^
-||us-east-1.amazonaws.com^
+||us-east-*.amazonaws.com^
 ||receiver.habby.mobi^
 ||s.011st.com^
 ||ds.11st.co.kr^
@@ -154,7 +160,6 @@
 ||nelo2-col.navercorp.com^
 ||geller-pa.googleapis.com^
 ||voilatile-pa.googleapis.com^
-||events.data.microsoft.com^
 ||insight.buzzvil.com^
 ||mon*-normal-c-useast1a.tiktokv.com^
 ||gmscompliance-pa.googleapis.com^
@@ -181,7 +186,6 @@
 ||casespartner-pa.youtube.com^
 ||addons-pa.clients6.google.com^
 ||youtube.com/sw.js_data
-/v1/att/get?
 ||hockeyapp.net^
 ||cdn.mediatoday.co.kr^
 ||3dpop.kr^
