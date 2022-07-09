@@ -1,5 +1,5 @@
 ! Title: PC AdGuard User Filter
-! Version: 22/07/07
+! Version: 22/07/09
 ! Homepage: bit.ly/AdGuard-User-Filter
 
 /generate_204
