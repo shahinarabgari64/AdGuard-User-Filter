@@ -1,9 +1,9 @@
 ! Title: Android AdGuard User Rule
-! Version: 22/07/06
+! Version: 22/07/09
 
-||js.sentry-cdn.com^
 ||setting-logncrash.cloud.toast.com^
 ||zaloapp.com^
+/analytics/
 ||external.ficn*-*.fna.fbcdn.net^
 ||b-api.facebook.com^
 ||b-graph.facebook.com^
@@ -12,7 +12,6 @@
 ||cdn.fbsbx.com^
 ||aem-ingest.onkakao.net^
 ||api-logncrash.cloud.toast.com^
-||collector.github.com^
 ||tds.ahnlab.com^
 ||onanico.net^
 ||img.youtube.com^$app=com.mathpresso.qanda
@@ -41,7 +40,6 @@
 ||graph.facebook.com^$app=com.spotify.music
 ||*/api/minecraft/language_category_select.php$important
 ||advertising-api-eu.amazon.com^$important
-/analytics/
 ||jnn-pa.googleapis.com^$important
 ||img.youtube.com^$app=com.sec.android.app.samsungapps,important
 ||sapphire.bingviz.com^$important
