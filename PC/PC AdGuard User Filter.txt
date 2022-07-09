@@ -46,7 +46,6 @@ boannews.com###news_util03
 /ajax/bulk-route-definitions/
 ||instagram.com/api/graphql/
 ||instagram.com/qp/batch_fetch_web/
-||i.instagram.com/api/v1/feed/reels_tray/
 ||instagram.fkno*-*.fna.fbcdn.net^
 ||i.instagram.com/api/v1/direct_v2/get_badge_count/?
 ||facebook.com/api/graphql/
