@@ -1,5 +1,5 @@
 ! Title: PC AdGuard DNS User Filter
-! Version: 22/07/07
+! Version: 22/07/10
 ! Homepage: bit.ly/AdGuard-User-Filter
 
 ||d9.flashtalking.com^
@@ -63,7 +63,6 @@
 ||use.fortawesome.com^
 ||dtrace.nvidia.com^
 ||geo.prod.do.dsp.mp.microsoft.com^
-||canvas-cdn-prod.azureedge.net^
 ||fp.msedge.net^
 ||sentry.io^
 ||ecs.office.com^
@@ -82,3 +81,5 @@
 ||lcs-robs.adobe.io^
 ||branch.io^
 ||utut-service.adobe.com^
+||videolan.ip-connect.vn.ua^
+||dmd.metaservices.microsoft.com^
